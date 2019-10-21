@@ -26,16 +26,16 @@ Introduction
             Declaring default Interface Methods
             Declaring static Interface Methods
         Declare Class Members (OCA Objectives 2.1, 2.2, 2.3, 4.1, 4.2, 6.2, 6.3, and 6.4)
-        Access Modifiers
-        Nonaccess Member Modifiers
-        Constructor Declarations
-        Variable Declarations
-    Declare and Use enums (OCA Objective 1.2)
-        Declaring enums
-    Certification Summary
-    Two-Minute Drill
-    Q&A Self Test
-    Self Test Answers
+            Access Modifiers
+            Nonaccess Member Modifiers
+            Constructor Declarations
+            Variable Declarations
+        Declare and Use enums (OCA Objective 1.2)
+            Declaring enums
+        Certification Summary
+        Two-Minute Drill
+        Q&A Self Test
+        Self Test Answers
 2 Object Orientation
     Encapsulation (OCA Objectives 6.1 and 6.5)
     Inheritance and Polymorphism (OCA Objectives 7.1 and 7.2)
