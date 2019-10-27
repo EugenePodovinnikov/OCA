@@ -1,18 +1,15 @@
-# OCA
-Oracle Certified Associate Java SE 8 Programmer I (Exam 1Z0-808)
+# Oracle 认证 Java SE 8 程序员
 
-一些资料和准备过程。
+Oracle Certified Associate, Java SE 8 Programmer (Exam 1Z0-808)
 
-- OCA Java SE 8 Programmer I Exam Guide (Exam 1Z0-808) - Kathy Sierra, Bert Bates - 427页。
-- OCA Oracle Certified Associate Java SE 8 Programmer I STUDY GUIDE - Jeanne Boyarsky and Scott Selikoff - 435页。
-- Core Java Volume I - Fundamentals Tenth Edition - Cay S. Horstmann - 1038 页，看不完。
+Oracle Certified Professional, Java SE 8 Programmer (Exam 1Z0-809)
+
+## 资料和准备过程
+
+- OCA Oracle Certified Associate Java SE 8 Programmer I STUDY GUIDE 1Z0-808
+- OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809
 - Oracle Certified OCA Java 8 1Z0-808 Mock Exams Practice Tests/Questions - 这个貌似收费软件模拟测试，发现这个可以购买，Enthuware Mock Exams ￥74.83 感觉可以接受。
-- OCA Java SE 8 Programmer I (1Z0-808) Complete Video Course - PEARSON 的视频 Simon Roberts
-- OCA Java SE 8 Programmer I Certification Guide - Mala Gupata - 706页。
 - [JDK 1.8 API](https://docs.oracle.com/javase/8/docs/api/)
-
-就这些资料已经够了，主要是时间怎么安排。国庆去玩的话，剩得半个月准备，按道理也够通过了，但是要 100% 正确率是很难的。期间就不能准备面试之类的了，全身心投入的话。搞完 OCA，年内也趁热打铁搞完 OCP。然后 Java SE 11 版本的呢？暂时不考虑那么远。
-
 
 ## OCA Objectives
 
@@ -27,32 +24,32 @@ Oracle Certified Associate Java SE 8 Programmer I (Exam 1Z0-808)
 #### Using Operators and Decision Constructs 
 
 - Use Java operators; use parentheses to override operator precedence
-- Test equality between Strings and other objects using == and equals ()
+- Test equality between Strings and other objects using `==` and `equals ()`
 - Create if and if/else and ternary constructs 
 - Use a switch statement 
 
 #### Using Loop Constructs 
 
-- Create and use while loops
-- Create and use for loops including the enhanced for loop
+- Create and use `while` loops
+- Create and use `for` loops including the enhanced for loop
 - Create and use do/while loops
 - Compare loop constructs
-- Use break and continue  
+- Use `break` and `continue`  
 
 #### Working with Inheritance 
 
 - Describe inheritance and its benefits
 - Develop code that makes use of polymorphism; develop code that overrides methods;  differentiate between the type of a reference and the type of an object
 - Determine when casting is necessary
-- Use super and this to access objects and constructors
+- Use `super` and `this` to access objects and constructors
 - Use abstract classes and interfaces
 
 #### Working with Selected classes from the Java API 
 
-- Manipulate data using the StringBuilder class and its methods
+- Manipulate data using the `StringBuilder` class and its methods
 - Create and manipulate Strings
-- Create and manipulate calendar data using classes from java.time.LocalDateTime,  java.time.LocalDate, java.time.LocalTime, java.time.format.DateTimeFormatter, java.time.Period
-- Declare and use an ArrayList of a given type 
+- Create and manipulate calendar data using classes from `java.time.LocalDateTime`,  `java.time.LocalDate`, `java.time.LocalTime`, `java.time.format.DateTimeFormatter`, `java.time.Period`
+- Declare and use an `ArrayList` of a given type 
 - Write a simple Lambda expression that consumes a Lambda Predicate expression
 
 #### Working With Java Data Types 
@@ -61,7 +58,7 @@ Oracle Certified Associate Java SE 8 Programmer I (Exam 1Z0-808)
 - Differentiate between object reference variables and primitive variables
 - Know how to read or write to object fields
 - Explain an Object's Lifecycle (creation, "dereference by reassignment" and garbage collection)
-- Develop code that uses wrapper classes such as Boolean, Double, and Integer  
+- Develop code that uses wrapper classes such as `Boolean`, `Double`, and `Integer`  
 
 #### Creating and Using Arrays 
 
@@ -71,7 +68,7 @@ Oracle Certified Associate Java SE 8 Programmer I (Exam 1Z0-808)
 #### Working with Methods and Encapsulation 
 
 - Create methods with arguments and return values; including overloaded methods
-- Apply the static keyword to methods and fields  
+- Apply the `static` keyword to methods and fields  
 - Create and overload constructors; differentiate between default and user defined constructors
 - Apply access modifiers
 - Apply encapsulation principles to a class
@@ -83,7 +80,7 @@ Oracle Certified Associate Java SE 8 Programmer I (Exam 1Z0-808)
 - Create a try-catch block and determine how exceptions alter normal program flow
 - Describe the advantages of Exception handling 
 - Create and invoke a method that throws an exception
-- Recognize common exception classes (such as NullPointerException, ArithmeticException, ArrayIndexOutOfBoundsException, ClassCastException)
+- Recognize common exception classes (such as `NullPointerException`, `ArithmeticException`, `ArrayIndexOutOfBoundsException`, `ClassCastException`)
 
 #### Assume the following:
 
